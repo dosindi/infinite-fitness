@@ -1,3 +1,5 @@
+# INFINITE FITNESS
+
 🚴‍♂️ Core Features:
 
 Multi-track support - Load and animate multiple GPX files simultaneously
